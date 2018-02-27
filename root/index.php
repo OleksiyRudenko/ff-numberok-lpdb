@@ -18,53 +18,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.4/css/all.css">
     <link rel="stylesheet" href="https://cdn.rawgit.com/OleksiyRudenko/normalize.css/28e3dc36/normalize.css">
     <link rel="stylesheet" href="https://cdn.rawgit.com/OleksiyRudenko/default-beauty.css/482728bd/default-beauty.css">
-    <style>
-        body {
-            margin-top: 0;
-            margin-bottom: 0;
-            padding-top: 0;
-            padding-bottom: 0;
-            height: 100%;
-            position: relative;
-        }
-        header {
-            position: absolute;
-            width: 100%;
-            flex-flow: column;
-        }
-        header > h1 {
-            margin-top: 0;
-        }
-        nav > * {
-            margin-right: 2rem;
-        }
-        nav a {
-            text-decoration-style: dotted;
-        }
-        footer {
-            position: absolute;
-            bottom: 0;
-            margin-bottom: 0;
-            width: 100%;
-        }
-        footer > * {
-            align-items: center;
-            margin-right: 2rem;
-        }
-        footer > p {
-            padding: 0;
-            margin: 0;
-        }
-        main {
-            height: 100vh;
-            margin-top: 0;
-            margin-bottom: 0;
-            padding-top: 5rem;
-            padding-bottom: 2.5rem;
-            overflow: auto;
-            box-sizing: border-box;
-        }
-    </style>
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
     <header>
